@@ -1,0 +1,7 @@
+path: /workspace/datasets  # Root relative to where this YAML is located
+train: images/train
+val: images/test
+test: images/test
+
+nc: 1
+names: ['pothole']
